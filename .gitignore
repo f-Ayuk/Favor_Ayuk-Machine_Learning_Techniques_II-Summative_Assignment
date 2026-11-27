@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+videos/*.mp4
+!videos/.gitkeep
+quick/

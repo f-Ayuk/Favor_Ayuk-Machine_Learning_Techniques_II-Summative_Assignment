@@ -1,0 +1,5 @@
+algorithm,run,config,val_reward_mean
+A2C,1,defaults,56.73578270989176
+DQN,2,{'lr': 0.0003},103.33807598171032
+PPO,1,defaults,80.12263769289731
+REINFORCE,2,{'lr': 0.0001},35.12955955420662
