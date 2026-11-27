@@ -1,7 +1,7 @@
 # Reinforcement Learning Summative Assignment Report
 
 **Student Name:** [Favor Ayuk]
-**Video Recording:** [Add the submitted video link; maximum 3 minutes, camera on, entire screen shared]
+**Video Recording:** [Video](https://www.loom.com/share/6f4496661fbe4ab69572d4cd69e90c05)
 **GitHub Repository:** [f-Ayuk/Favor_Ayuk-Machine_Learning_Techniques_II-Summative_Assignment](https://github.com/f-Ayuk/Favor_Ayuk-Machine_Learning_Techniques_II-Summative_Assignment.git)
 
 ## 1. Project Overview

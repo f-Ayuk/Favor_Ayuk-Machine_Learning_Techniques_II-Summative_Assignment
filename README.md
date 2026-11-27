@@ -120,9 +120,8 @@ python main.py --jobs 4               # full experiment: 4 algorithms × 10 conf
 python main.py --jobs 4 --output-dir full_run  # full run without replacing existing artifacts
 python main.py --skip-training        # re-evaluate and re-plot from saved models/logs
 
-python play.py --agent dqn            # watch the best DQN agent in the MuJoCo viewer
+python play.py --agent ppo            # watch the best PPO agent in the MuJoCo viewer
 python play.py --agent random         # random agent (for the demo video)
-python play.py --agent ppo --record videos/ppo.mp4
 ```
 
 On macOS use `mjpython play.py ...` for the live viewer.
